@@ -1,0 +1,39 @@
+use always
+
+._anim-items pos-rel
+
+/***************************************************
+                            ALL Animation When Scroll
+***************************************************/
+.pos-rel{
+    position: relative;
+}
+.anim-border-t-l._active-scrll-anim::after{
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 1px;
+    -moz-animation: border__width .5s ease;
+    -o-animation: border__width .5s ease;
+    -webkit-animation: border__width .5s ease;
+    animation: border__width .5s ease;
+    z-index: 999999;
+    background-color: #000000;
+}
+
+.anim-border-r-t._active-scrll-anim::after{
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 1px;
+    height: 100%;
+    -moz-animation: border__height .5s ease;
+    -o-animation: border__height .5s ease;
+    -webkit-animation: border__height .5s ease;
+    animation: border__height .5s ease;
+    z-index: 999;
+    background-color: #011D45;
+}

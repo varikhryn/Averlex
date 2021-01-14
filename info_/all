@@ -1,0 +1,57 @@
+.w-100{
+    width: 100%;
+}
+.all-w{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+button{
+    background-color: transparent;
+    border: none;
+    outline: none;
+    font-family: "TT Interfaces DemiBold";
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.blc-w-l{
+    min-width: 263px;
+    width: 20%;
+    padding-right: 30px;
+    display: flex;
+    flex-grow: 0;
+}
+.blc-w-r{
+    /* width: calc(100% - 263px); */
+    display: flex;
+    flex-grow: 1;
+}
+
+h1{
+    font-size: 60px;
+    font-family: "TT Interfaces DemiBold";
+    font-size: 60px;
+    line-height: 140%;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+}
+h2{
+    font-family: "TT Interfaces DemiBold";
+    font-size: 30px;
+    line-height: 160%;
+}
+h5{
+    font-family: "TT Interfaces Bold";
+    font-size: 16px;
+    line-height: 200%;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+}
+
+
+style for animation
+._anim-items{
+
+}

@@ -1,0 +1,59 @@
+/* TT Interfaces Regular (400)*/
+@font-face {
+    /* // название шрифта(чтобы не запутаться лучше указать название папки со шрифтом)  */
+    font-family: "TT Interfaces Regular"; 
+    /* // адрес шрифта и тип  */
+    src: url("../fonts/TTInterfaces-Regular.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: 400; 
+}
+
+/* TT Interfaces Medium (500)*/
+@font-face {
+    /* // название шрифта(чтобы не запутаться лучше указать название папки со шрифтом)  */
+    font-family: "TT Interfaces Medium"; 
+    /* // адрес шрифта и тип  */
+    src: url("../fonts/TTInterfaces-Medium.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: 500; 
+}
+
+/* TT Interfaces DemiBold (600) */
+@font-face {
+    /* // название шрифта(чтобы не запутаться лучше указать название папки со шрифтом)  */
+    font-family: "TT Interfaces DemiBold"; 
+    /* // адрес шрифта и тип  */
+    src: url("../fonts/TTInterfaces-DemiBold.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: 600; 
+}
+
+/* TT Interfaces Bold (700)*/
+@font-face {
+    /* // название шрифта(чтобы не запутаться лучше указать название папки со шрифтом)  */
+    font-family: "TT Interfaces Bold"; 
+    /* // адрес шрифта и тип  */
+    src: url("../fonts/TTInterfaces-Bold.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: 700; 
+}
+
+/* TT Interfaces ExtraBold (800)*/
+@font-face {
+    /* // название шрифта(чтобы не запутаться лучше указать название папки со шрифтом)  */
+    font-family: "TT Interfaces ExtraBold"; 
+    /* // адрес шрифта и тип  */
+    src: url("../fonts/TTInterfaces-ExtraBold.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: 800; 
+}
+
+/* TT Interfaces Black (900)*/
+@font-face {
+    /* // название шрифта(чтобы не запутаться лучше указать название папки со шрифтом)  */
+    font-family: "TT Interfaces Black"; 
+    /* // адрес шрифта и тип  */
+    src: url("../fonts/TTInterfaces-Black.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: 900; 
+}

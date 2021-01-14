@@ -1,0 +1,72 @@
+.ttl_h1 h1{
+    font-size: 60px;
+    font-family: "TT Interfaces DemiBold";
+    font-size: 60px;
+    line-height: 140%;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+}
+
+.ttl_h2 h2{
+    font-family: "TT Interfaces DemiBold";
+    font-size: 30px;
+    line-height: 160%;
+}
+
+.ttl_h5 h5{
+    font-family: "TT Interfaces Bold";
+    font-size: 16px;
+    line-height: 200%;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+}
+
+.ttl_abs_w p{
+    font-family: "TT Interfaces ExtraBold"; 
+    font-size: 267px;
+    line-height: 110%;
+    letter-spacing: 0.05em;
+    color: white;
+    text-shadow: 
+		-0   -1px 0   rgba(1, 29, 69, 0.1),
+		 0   -1px 0   rgba(1, 29, 69, 0.1),
+		-0    1px 0   rgba(1, 29, 69, 0.1),
+		 0    1px 0   rgba(1, 29, 69, 0.1),
+		-1px -0   0   rgba(1, 29, 69, 0.1),
+		 1px -0   0   rgba(1, 29, 69, 0.1),
+		-1px  0   0   rgba(1, 29, 69, 0.1),
+		 1px  0   0   rgba(1, 29, 69, 0.1),
+		-1px -1px 0   rgba(1, 29, 69, 0.1),
+		 1px -1px 0   rgba(1, 29, 69, 0.1),
+		-1px  1px 0  rgba(1, 29, 69, 0.1),
+		 1px  1px 0   rgba(1, 29, 69, 0.1),
+		-1px -1px 0  rgba(1, 29, 69, 0.1),
+		 1px -1px 0   rgba(1, 29, 69, 0.1),
+		-1px  1px 0   rgba(1, 29, 69, 0.1),
+		 1px  1px 0  rgba(1, 29, 69, 0.1);
+}
+
+.ttl_abs_b p{
+    font-family: "TT Interfaces ExtraBold"; 
+    font-size: 267px;
+    line-height: 110%;
+    letter-spacing: 0.05em;
+    color:  #011D45;
+    text-shadow: 
+		-0   -1px 0   rgba(255, 255,255, 0.1),
+		 0   -1px 0   rgba(255, 255,255, 0.1),
+		-0    1px 0   rgba(255, 255,255, 0.1),
+		 0    1px 0   rgba(255, 255,255, 0.1),
+		-1px -0   0   rgba(255, 255,255, 0.1),
+		 1px -0   0   rgba(255, 255,255, 0.1),
+		-1px  0   0   rgba(255, 255,255, 0.1),
+		 1px  0   0   rgba(255, 255,255, 0.1),
+		-1px -1px 0   rgba(255, 255,255, 0.1),
+		 1px -1px 0   rgba(255, 255,255, 0.1),
+		-1px  1px 0  rgba(255, 255,255, 0.1),
+		 1px  1px 0   rgba(255, 255,255, 0.1),
+		-1px -1px 0  rgba(255, 255,255, 0.1),
+		 1px -1px 0   rgba(255, 255,255, 0.1),
+		-1px  1px 0   rgba(255, 255,255, 0.1),
+		 1px  1px 0  rgba(255, 255,255, 0.1);
+}
